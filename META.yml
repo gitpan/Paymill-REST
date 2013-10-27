@@ -37,6 +37,6 @@ resources:
   bugtracker: https://github.com/rainboxx/Paymill-REST/issues
   homepage: https://github.com/rainboxx/Paymill-REST
   repository: https://github.com/rainboxx/Paymill-REST.git
-version: 0.01
+version: 0.02
 x_contributors:
   - 'Matthias Dietrich <perl@rb.ly>'
